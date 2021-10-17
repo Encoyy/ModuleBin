@@ -9,6 +9,7 @@
     "moduleVersion": 0.1,
     "moduleLenguage": "Sub&Dub",
     "moduleType": "Video",
+    "baseURL": "https://gogoanime.pe/popular.html",
     "moduleDeveloperSite": "https://discord.gg/xtfn2nfcab",
     "UpdateSite": "https://raw.githubusercontent.com/Encoyy/ModuleBin/main/Coyla/Coyla-Dev.json",
     "preferedServer": "STREAMANI",
